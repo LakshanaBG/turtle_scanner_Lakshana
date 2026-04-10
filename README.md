@@ -14,4 +14,4 @@ Le nœud `spawn_target.py` utilise le service `/spawn` de `turtlesim/srv/Spawn`
 pour créer une tortue nommée `turtle_target` à une position aléatoire.
 
 ### Screenshot
-![Spawn target](/images/spawn_target.py)
+![Spawn target](/images/spawn_target.png)
